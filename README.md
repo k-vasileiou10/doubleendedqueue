@@ -1,5 +1,5 @@
 # Double Ended Queue (DeQueue)
-#### Konstantinos Vasileiou, Vasileios Kogias. Implented with a Circular Array.
+#### Konstantinos Vasileiou. Implented with a Circular Array.
 
 A Maven project ran after:
 * `mvn clean install`
